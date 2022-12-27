@@ -1,3 +1,5 @@
+#By Daniel Dias Pereira
+
 import numbers
 
 print("Bem vindo a calculadora de energia cinética")
